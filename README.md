@@ -1,19 +1,10 @@
 ## arcturyx labs
-
-<!DOCTYPE html>
 <html>
-    <head>
-        <title>arcturyx labs</title>
-    </head>
-<body bgcolor ="black">
-    
-    <img src="arcturyxlabs.png" align ="right" alt="logo of arcturyx labs,follows a fibonacci pattern">
+    <img src="https://i.ibb.co/wY6sDFz/arcturyxlabs.png" align ="right" alt="logo of arcturyx labs,follows a fibonacci pattern">
     <font color ="green" face="Computer Modern">
         <center>
         <h1>arcturyx labs</h1>
         </center>
-        
-        <p>
         This is the home page of arcturyx labs.
         
         </p><h2>What Do We Do?</h2>
@@ -51,9 +42,6 @@
             &nbsp;&nbsp; &nbsp; &nbsp;      966 424 3070<br>
             Intl:	+91 966 424 3070<br>
             </p>
-        
-        
-        </p>
     </font>
 </body>    
 </html>
